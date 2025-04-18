@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/exp-1_classesAndObjects/exp-1_classesAndObjects.iml" filepath="$PROJECT_DIR$/exp-1_classesAndObjects/exp-1_classesAndObjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exp-2_ConstructorsDestructorsandOverloading/exp-2_ConstructorsDestructorsandOverloading.iml" filepath="$PROJECT_DIR$/exp-2_ConstructorsDestructorsandOverloading/exp-2_ConstructorsDestructorsandOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exp-3_inheritance/exp-3_inheritance.iml" filepath="$PROJECT_DIR$/exp-3_inheritance/exp-3_inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exp-4_interface/exp-4_interface.iml" filepath="$PROJECT_DIR$/exp-4_interface/exp-4_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exp-5_packageAndImport/exp-5_packageAndImport.iml" filepath="$PROJECT_DIR$/exp-5_packageAndImport/exp-5_packageAndImport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exp-6_exceptionHandling/exp-6_exceptionHandling.iml" filepath="$PROJECT_DIR$/exp-6_exceptionHandling/exp-6_exceptionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exp-7_generics_Classesandmethods/exp-7_generics_Classesandmethods.iml" filepath="$PROJECT_DIR$/exp-7_generics_Classesandmethods/exp-7_generics_Classesandmethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exp-8_fileHandling/exp-8_fileHandling.iml" filepath="$PROJECT_DIR$/exp-8_fileHandling/exp-8_fileHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/oops.iml" filepath="$PROJECT_DIR$/.idea/oops.iml" />
+    </modules>
+  </component>
+</project>
